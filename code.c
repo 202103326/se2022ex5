@@ -2,6 +2,7 @@
 
 int main(void) {
   int i;
+  printf("Hello");
   printf("kaisuu i=");
   scanf("%d", &i);
   for (i; i >= 0; i--) {
